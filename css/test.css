@@ -1,0 +1,99 @@
+.container-fluid{
+    display: flex;
+    background-color: yellowgreen;
+    margin-top: 0px;
+    padding: 0px;
+}
+body{
+    display: grid;
+}
+html{
+    display: block;
+    margin: 50px;
+    
+    border: 5px solid ;
+    border-radius: 1%;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    box-shadow: 5px 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: darkorange;
+    
+}
+.card{
+    border: 5px solid black;
+
+}
+#home{
+    display: flex;
+    gap: 5px;
+    padding: 0px;
+    
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: x-large;
+
+    
+
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    
+} 
+.jip-img{
+    height:30px;
+    border-radius: 50%;
+}
+.d-img{
+    height:30px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    align-items: center;
+    text-align: center;
+}
+.tn{
+    display: flex;
+    justify-content: center;
+}
+#ng{
+    display: block;
+    border: 5px solid ;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 5%;
+}
